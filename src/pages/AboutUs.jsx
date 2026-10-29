@@ -1,6 +1,7 @@
+
 function AboutUs() {
   return (
-    <div className="about-page">
+    <div className="about-us-container">
       <div className="about-card">
         <h1>About Paradise Nursery</h1>
 
